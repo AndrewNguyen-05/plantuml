@@ -1,6 +1,6 @@
-# SE Survival diagram list
+# PlantUML Diagram
 
-## This is the repository contain multiple diagram for project: "Project Management System (Project1 & 2).
+## This is the repository create multiple types of diagrams using PlantUML
 
 Draw using plantuml
 
@@ -16,6 +16,7 @@ Step 2: Install PlantUML and dependency using choco (cmd.exe with Administrator 
 
 choco install plantuml
 ```
+
 if u have install choco before, just run the second line
 
 Step 3: Add PlantUML jar path in extension setting and set render to local
@@ -26,4 +27,3 @@ Step 3: Add PlantUML jar path in extension setting and set render to local
 ![Alt text](image-2.png)
 
 Step 4: Restart VSCode and you are good to go
-
